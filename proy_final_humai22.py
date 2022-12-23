@@ -1,3 +1,4 @@
+# Pablo Gonzalez Yanelli - 2022
 # importar librerias
 from machine import Pin, I2C
 from utime import sleep
